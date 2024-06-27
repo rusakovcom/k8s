@@ -17,3 +17,6 @@ sudo mv ./kubectl /usr/local/bin/kubectl
 # check
 kubectl version --client
 
+
+
+# wget https://raw.githubusercontent.com/rusakovcom/k8s/main/install_kubectl.sh && sudo chmod +x install_kubectl.sh && sudo bash install_kubectl.sh
