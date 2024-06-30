@@ -1,4 +1,4 @@
-
+#!/bin/bash
 # Instruction https://helm.sh/docs/intro/install/
 
 # Download
